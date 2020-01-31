@@ -1,0 +1,22 @@
+{
+  "recheio":[
+    "Calabresa",
+    "Frango",
+    "Bacon"
+  ],
+  "massa":[
+    "Fina",
+    "Foleada",
+    "Foleada com queijo"
+  ],
+  "tamanho":[
+    "Pequena",
+    "Média",
+    "Grande"
+  ],
+  "borda":[
+    "Vulcão",
+    "Cheddar",
+    "Catupiry"
+  ]
+}
